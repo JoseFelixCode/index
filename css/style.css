@@ -1,0 +1,50 @@
+/*CRIANDO menu sanduiche */
+
+#menu {
+    display: none;
+}
+
+#menu:checked ~ .menu {
+    display: block;
+}
+
+.menu {
+    display: none;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    background-color: #000;
+    padding: 10px;
+    border-bottom: 1px solid #fff;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    color: #ccc;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: #000000;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #000;
+    text-decoration: dotted;
+}
