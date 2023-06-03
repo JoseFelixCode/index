@@ -1,2 +1,2 @@
-# principal.github.io
-*Essa página será utilizada para armazenar o portifóliio de aulas das disciplinas de programação*
+## principal.github.io
+*Esse repositorio será usado para armazenar a página principal/index dos demais projetos, de forma a construir um portifolio de projetos *
